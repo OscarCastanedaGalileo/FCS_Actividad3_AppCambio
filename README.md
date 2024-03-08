@@ -9,7 +9,7 @@ Este es un programa en lenguaje C que nos permite realizar 6 diferentes operacio
 
 ## Prerrequisitos (Tecnologias a Instalar)
 
-1. Editor de Codigo (Visual Studio Code, Atom, Noteṕad++)
+1. Editor de Codigo (Visual Studio Code, Atom)
 2. php
 3. apache2
 4. Build-Essentials
