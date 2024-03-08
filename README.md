@@ -18,7 +18,7 @@ Este es un programa en lenguaje C que nos permite realizar 6 diferentes operacio
 - Ejecute el comando `sudo systemctl restart apache2.service` para reiniciar el servicio
   
 4. Build-Essentials
--Ejectute el comando `sudo apt install build-essential` para instalar el compilador Build-Essentials
+- Ejectute el comando `sudo apt install build-essential` para instalar el compilador Build-Essentials
 5. GitHub
 
 ## Pasos para su ejecucion
